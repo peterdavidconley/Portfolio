@@ -87,7 +87,7 @@ p {
 }
 
 button {
-    background-color: #FFDAB9;
+    background-color: #46CDCF;
     text-align: center;
     color: white;
     padding: 2%;
@@ -135,7 +135,7 @@ nav {
 }
 
 .links a {
-    background-color: #FA8072;
+    background-color: #46CDCF;
     border: white solid 1px;
     text-align: center;
     color: white;
@@ -185,7 +185,7 @@ nav {
 /*Footer Styling*/
 
 footer {
-    background-color: #FA8072;
+    background-color: #403e39;
     color: white;
     padding: 2% 0;
 }
