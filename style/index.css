@@ -184,7 +184,9 @@ nav {
 }
 
 #six-images img:hover {
-    border: #192BC2 dashed 5px;
+    border: #192BC2 solid 5px;
+    transform: scale(1.05)
+
 }
 
 /*Footer Styling*/
