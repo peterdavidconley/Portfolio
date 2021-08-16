@@ -98,6 +98,11 @@ button:hover {
     transform: scale(1.3);
 }
 
+a {
+    text-decoration: none;
+    color: #46CDCF ;
+}
+
 /*Helper Classes*/
 
 .bgimg {
@@ -112,7 +117,7 @@ nav {
     position:fixed;
     top:0;
     width:100%;
-    background-color: #0F52BA;
+    background-color: #192BC2;
 }
 
 .logo{
@@ -179,7 +184,9 @@ nav {
 }
 
 #six-images img:hover {
-    border: white solid 2px;
+    border: #192BC2 solid 5px;
+    transform: scale(1.05)
+
 }
 
 /*Footer Styling*/
